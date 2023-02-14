@@ -1,0 +1,51 @@
+.nav_text {
+  color: #ffde00 !important;
+  font-weight: 700 !important;
+
+  font-family: "Times New Roman", Times, serif !important;
+  text-decoration: solid;
+}
+.hover_effect:hover {
+  padding: 0px;
+  background-color: rgba(198, 177, 177, 0.514);
+  border-radius: 20px;
+}
+.hover_logo:hover {
+  background-color: rgba(245, 245, 245, 0.52);
+  border-style: unset;
+  border-radius: 15px;
+}
+.navbar-custom {
+  background-color: rgb(0, 0, 0);
+}
+.text {
+  background-image: url(images/car.jpg);
+
+  background-size: cover;
+}
+.main_font {
+  font-weight: 600;
+  font-size: 24px;
+  color: #ffde00;
+}
+.logo_design {
+  width: 35px;
+  height: 35px;
+}
+.black_background {
+  background-color: black !important;
+}
+.gradient_background {
+  background: linear-gradient(#8693ab, #bdd4e7);
+}
+.icon {
+  border-radius: 50%;
+}
+.custom_img {
+  width: 300px;
+  height: 300px;
+}
+.div_rad {
+  border-radius: 20px;
+  background-color: #7b7756bb!important;
+}
